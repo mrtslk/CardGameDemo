@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e378c68d77bd9f4da6f7707a2684006, type: 3}
+  m_Name: TextureStack
+  m_EditorClassIdentifier: 
+  spinWheelData:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000
+    _keys: 000000000100000002000000
+    _values:
+    - spinWheel: {fileID: 21300000, guid: b3d0a542db3f7c3478415d45011a0a2d, type: 3}
+      spinIndicator: {fileID: 21300000, guid: 206f96ec5cdea084499b3d192f29d94b, type: 3}
+      spinButtonBG: {fileID: 0}
+      frame: {fileID: 21300000, guid: 86bc3a8f407cf1042a8843d8b03e0890, type: 3}
+    - spinWheel: {fileID: 21300000, guid: 1208bcdc8b4c9f945810b45e64cd0eff, type: 3}
+      spinIndicator: {fileID: 21300000, guid: 3d0c1d7ff27d86c409db368e1fd960a9, type: 3}
+      spinButtonBG: {fileID: 21300000, guid: 7a011495725bd1b49a309a3ce76eb075, type: 3}
+      frame: {fileID: 21300000, guid: 8b29bcd0acbe0aa4480f629ccbae2a7a, type: 3}
+    - spinWheel: {fileID: 21300000, guid: 6999481bb47af6048a1d724991b04fbf, type: 3}
+      spinIndicator: {fileID: 21300000, guid: 21572e68c47978048a9fd061c6980b18, type: 3}
+      spinButtonBG: {fileID: 21300000, guid: bcad53ba81702694a801e90c1ae14140, type: 3}
+      frame: {fileID: 21300000, guid: 7636654d468b33246b891c26b05fb421, type: 3}
+  rewardData:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    _keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    _values:
+    - {fileID: 21300000, guid: a01eb13401ac32844973ac097b88b177, type: 3}
+    - {fileID: 21300000, guid: 4c78a9cfc5329e049b6429c8f5b63f04, type: 3}
+    - {fileID: 21300000, guid: f335eef0b8a9b514ea10c739fe21b641, type: 3}
+    - {fileID: 21300000, guid: 7012839bf5c71be449926c69136946c9, type: 3}
+    - {fileID: 21300000, guid: aeca34e83234b92449ef3540d3aba57c, type: 3}
+    - {fileID: 21300000, guid: 0d2ef855967c18c4394d143403fb6a55, type: 3}
+    - {fileID: 21300000, guid: 3fd493947d91c7a4d9468c7a04488f9d, type: 3}
+    - {fileID: 21300000, guid: ac96ff6c9c1656145a6e770c6ec3150b, type: 3}
+    - {fileID: 21300000, guid: a7f7c29951475544f84a0990fd4ffecd, type: 3}
+    - {fileID: 21300000, guid: 969006d077718014e8e41c8c5b8ba6ca, type: 3}
+    - {fileID: 21300000, guid: b40e83995c660334bbccd1b989c21f84, type: 3}
